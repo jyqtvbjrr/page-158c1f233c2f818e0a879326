@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "77ebf489b418eba8dec2c9fe",
+  "owner": "jyqtvbjrr",
+  "repo": "page-158c1f233c2f818e0a879326",
+  "title": "白嫖云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "158c1f233c2f818e0a879326",
+      "a": "白嫖云",
+      "b": "机场官网线路发布页",
+      "entity": "白嫖云",
+      "brand": "白嫖云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c4a539c652a70506e44cd94f5e11ea67a7e061b6dcdbadb2ee8d17f76cbae025",
+      "content": {
+        "primary_entity": "白嫖云",
+        "keyword1": "白嫖云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows 常用 Clash Verge，macOS 推荐 ClashX 或 Surge，Android 可选 v2rayNG，iOS 使用 Shadowrocket 或 Stash，路由器可刷 OpenWrt 搭配 PassWall。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "从基础版到团队版按需选择，先试用再决定长期方案。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定起步",
+          "AI_DESCRIPTION": "，白嫖云提供基础版、旗舰版与团队版三档方案。基础版每月 100GB 流量，适合 3 台设备轻量使用；旗舰版每月 300GB，支持 5 台设备并带 IPLC 专线优化；团队版每月 1000GB，可 20 台设备同时在线。年付享有更灵活的价格选择，订阅导入各平台客户端即可开始。",
+          "AI_FAQ_ANSWER_1": "只看两点：日常月流量多大、要同时连几台设备。流量 100GB 以内且设备不超过 3 台，基础版就够；需要更多流量和设备，再看旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "启动客户端后进入订阅或配置页面，粘贴订阅链接并更新即可。不同客户端操作路径略有差异，可参考对应客户端文档完成导入。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出设备数时可在套餐页面升级到更高档位。",
+          "AI_FAQ_ANSWER_4": "月付适合短期或试用需求，年付总价更低。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，可按预算和使用时长选择。",
+          "AI_FAQ_ANSWER_5": "Wi-Fi 环境下多设备连接时，建议选择旗舰版或团队版，它们提供更多的并发设备数与更高流量额度，能减少切换和限速带来的影响。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "个人用户适合选择哪档套餐？",
+          "AI_FAQ_QUESTION_2": "订阅链接导入客户端要怎么做？",
+          "AI_FAQ_QUESTION_3": "套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_5": "Wi-Fi 环境下多设备连接该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题速览",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到订阅周期，三点帮你理清使用思路。",
+          "AI_FEATURES_TITLE": "选择白嫖云的三个理由",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按流量和预算匹配。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，满足个人到团队。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付划算，基础版年付 150 元起，订阅周期可随需调整。",
+          "AI_FEATURE_TITLE_1": "三档流量可选",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "按需求选套餐、确认设备适配、再导入订阅，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "白嫖云提供基础版、旗舰版与团队版三档套餐，覆盖从个人到团队的流量与设备需求。年付方案价格更低，各平台客户端均可通过订阅链接完成配置。",
+          "AI_HERO_SUBTITLE": "三档套餐，年付更省心",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线，5 台设备在线",
+          "AI_HIGHLIGHT_3": "团队版 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合轻量个人用户，旗舰版带 IPLC 专线适合游戏与流媒体，团队版满足多设备高流量场景，可按年付获取更优价格。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据月流量和同时在线设备数，从基础版、旗舰版、团队版中挑选适合的档位。",
+          "AI_STEP_TEXT_2": "确认所用设备数量与平台类型，核对套餐是否覆盖日常使用场景。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，在对应客户端中导入并更新配置，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TITLE_3": "导入客户端订阅",
+          "AI_VISUAL_TITLE": "白嫖云套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "brdtk.cn",
+    "host": "brdtk.cn"
+  },
+  "file_hashes": {
+    "index.html": "7e01686544a16b46fb4420e79f2f89546744c8a1111e70063d0e6c3353757d18",
+    "sitemap.xml": "d90b6a55f73e13b945fb9892f59b62e04574431c8c82337bb80b62829c497baa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b4ca24b480204a3cc100ed2fb812121f4643def653ce4208aa2de87537f6ed9c",
+    "robots.txt": "8d7e41d0b8932243c36c5f7379aa247489596415615f30adccea553e31ce13c5",
+    "449776afa21a3201760140c1ffa7de0a.txt": "6f3969291880bdb0e4ff85071c505705c33e1cc3288992dacb924ff6cd7125e4"
+  },
+  "revision": "bbe36631cda9d7288cb68477e1df7279ee62168afd27e12411c2afa22d185942"
+}
